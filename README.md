@@ -1,18 +1,4 @@
-## Getting Started
+Repository for storing completed algoritms 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1.Write a program that reads in 7 different numbers, then prints out the smallest value and also prints out the position of the smallest value in the input sequence as a number from 1 to 7. If you need a hint, see the footnote[*]. 
+ [ src/smallestAndIndex.java ](https://github.com/Joshua850/Algorithm-practice/blob/master/src/smallestAndIndex.java)
